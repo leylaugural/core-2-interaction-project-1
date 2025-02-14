@@ -231,7 +231,7 @@ h3 {
     flex-direction: column;
     justify-content: right;
     align-items: flex-end;
-    width: 1518px;
+    width: 100vw;
     height: 100vh;
     padding: 50px 65px;
     gap: 100px;

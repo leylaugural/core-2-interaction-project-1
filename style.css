@@ -24,7 +24,7 @@ body {
     flex-shrink: 0;
     position: relative;
     text-align: left;
-    padding: 50px 65px;
+    padding: 3.307vw 4.299vw;
     background-color: #FF5A00;
     margin-top: -190px;
 }
@@ -33,9 +33,9 @@ h1 {
     flex-shrink: 0;
     color: #000;
     font-family: Roboto;
-    font-size: 64px;
+    font-size: 3vw;
     font-style: normal;
-    font-weight: 800;
+    font-weight: 52.91vw;
     line-height: normal;
 }
 
@@ -49,15 +49,15 @@ h1 {
     position: absolute;
     left: 0;
     top: 0;
-    font-size: 140px;
-    font-weight: 800;
+    font-size: 8.75rem;
+    font-weight: 50rem;
 }
 
 .big-word {
-    top: 200px;
+    top: 13.228vw;
     color: #000;
     font-family: Roboto;
-    font-size: 140px;
+    font-size: 9.259vw;
     font-weight: 800;
     line-height: normal;
     flex-shrink: 0;
@@ -89,8 +89,8 @@ h1 {
     align-items: flex-end;
     width: 100vw;
     height: 200vh;
-    padding: 30px 45px;
-    gap: 109px;
+    padding: 1.875rem;
+    gap: 200px;
     flex-shrink: 0;
     background-color: #000;
 }
@@ -115,9 +115,9 @@ h3 {
 
 #text-1 {
     display: flex;
-    width: 1383px;
-    height: 163px;
-    padding-left: 700px;
+    width: 86.438rem;
+    height: 10.188rem;
+    padding-left: 43.75rem;
     justify-content: center;
     align-items: center;
     flex-shrink: 0;
@@ -139,6 +139,7 @@ h3 {
     align-items: center;
     margin-bottom: 100px;
     color: #FF5A00;
+    margin-top: 40vh;
 
 }
 
@@ -147,13 +148,13 @@ h3 {
     padding-right: 700px;
     justify-content: center;
     align-items: center;
-    gap: 10px;
     align-self: stretch;
+    margin-top: 40vh;
 }
 
 .border {
     border: #FF5A00 solid 1px;
-    padding: 20px;
+    padding: 1.323vw;
     margin:0;
     height: 200vh;
 }

@@ -36,6 +36,8 @@ h1 {
     font-style: normal;
     font-weight: 52.91vw;
     line-height: normal;
+    width: 34.061vw;
+    height: auto;
 }
 
 .text-container {
@@ -48,8 +50,6 @@ h1 {
     position: absolute;
     left: 0;
     top: 0;
-    font-size: 8.75rem;
-    font-weight: 50rem;
 }
 
 .big-word {
@@ -67,8 +67,8 @@ h1 {
 .symbols {
     position: sticky;
     color: #FF5A00;
-    top: 190px;
-    margin-left: 65px;
+    top: 12.566vw;
+    margin-left: 4.299vw;
     text-align: left;
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: #000;
@@ -194,9 +194,8 @@ h3 {
 
 .marker-3 {
     display: flex;
-    width: 1383px;
-    height: 163px;
-    padding-left: 700px;
+
+    padding-left: 46.296vw;
     justify-content: right;
     align-items: right;
     margin-bottom: 100px;

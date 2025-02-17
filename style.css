@@ -206,11 +206,11 @@ h3 {
 .text-box-3 {
     display: flex;
     flex-direction: column;
-    justify-content: right;
+    justify-content: flex-start;
     align-items: flex-end;
     width: 100vw;
     height: 100vh;
-    padding: 50px 65px;
+    padding: 4.299vw 4.299vh;
     gap: 100px;
     flex-shrink: 0;
     background-color: #000;
@@ -218,30 +218,25 @@ h3 {
 
 #text-5 {
     display: flex;
-
     padding-left: 46.296vw;
     align-items: right;
     flex-shrink: 0;
     color: #FFF;
-    font-family: Oranienbaum;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    margin-top: -10px;
+    margin-top: 0;
+    
 }
 
 .button-container {
     display: flex;
-    width: 320px;
-    height: 76px;
-    padding: 33px;
+    width: 21.164vw;
+    height: 7.724vh;
+    padding: 2.183vw;
     justify-content: center;
     align-items: center;
     gap: 5px;
-    flex-shrink: 0;
-    border-radius: 38px;
-    border: 1px solid #FF5A00;
-    margin-right: 65px;
+    border-radius: 2.513vw;
+    border: 0.066vw solid #FF5A00;
+    margin-right: 4.299vw;
     cursor: pointer;
 }
 
@@ -249,7 +244,7 @@ h3 {
     color: #FF5A00;
     text-align: center;
     font-family: Roboto;
-    font-size: 32px;
+    font-size: 2.116vw;
     font-style: normal;
     font-weight: 600;
     line-height: normal;

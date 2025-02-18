@@ -129,7 +129,7 @@ h3 {
     display: flex;
     flex-direction: column;
     width: 100vw;
-    height: 150vh;
+    /* height: 300vh; */
     padding: 4.299vw 4.299vw;
     gap: 9.921vw;
     flex-shrink: 0;
@@ -182,7 +182,7 @@ h3 {
     justify-content: flex-end;
     flex-shrink: 0;
     line-height: normal;
-    margin-top: auto;
+    margin-top: 30vh;
 }
 
 .text-box-3 {

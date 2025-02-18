@@ -100,7 +100,7 @@ h2 {
     font-weight: 400;
     line-height: normal;
     width: 91.468vw;
-    height: 10.78vw;
+    height: auto;
 }
 
 h3 {
@@ -109,7 +109,7 @@ h3 {
     font-size: 3.175vw;
     font-style: normal;
     width: 91.468vw;
-    height: 10.78vw;
+    height: auto;
 }
 
 #text-1 {
@@ -150,9 +150,9 @@ h3 {
     flex-direction: column;
     justify-content: flex-start;
     width: 100vw;
-    height: 300vh;
+    height: 200vw;
     padding:  4.299vw 4.299vw;
-    gap: 23.148vw;
+    gap: 15vw;
     flex-shrink: 0;
     background-color: #FF5A00;
 }
@@ -160,7 +160,7 @@ h3 {
 #text-3 {
     display: flex;
     width: 91.468vw;
-    height: 10.78vw;
+    height: auto;
     padding-left: 46.296vw;
     justify-content: right;
     align-items: center;
@@ -169,38 +169,29 @@ h3 {
 
 .marker-2 {
     display: flex;
-    width: 1383px;
-    height: 163px;
-    padding-right: 700px;
+    padding-right: 46.296vw;
     justify-content: left;
     align-items: left;
-    margin-bottom: 200px;
+    margin-bottom: 13.228vw;
     color: #000000;
-    padding-top: -200px;
 }
 
 #text-4 {
     display: flex;
     padding-right: 46.296vw;
-    justify-content: center;
-    align-items: center;
+    justify-content: flex-end;
+    align-items: left;
     flex-shrink: 0;
     color: #FFF;
-    font-family: Oranienbaum;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
 }
 
 .marker-3 {
     display: flex;
-
     padding-left: 46.296vw;
-    justify-content: right;
+    justify-content: flex-end;
     align-items: right;
-    margin-bottom: 100px;
+    margin-bottom: 10vw;
     color: #000000;
-    padding-top: 100px;
 }
 
 .text-box-3 {
@@ -231,13 +222,14 @@ h3 {
     width: 21.164vw;
     height: 7.724vh;
     padding: 2.183vw;
-    justify-content: center;
+    justify-content:center;
     align-items: center;
     gap: 5px;
     border-radius: 2.513vw;
     border: 0.066vw solid #FF5A00;
     margin-right: 4.299vw;
     cursor: pointer;
+    z-index: 2;
 }
 
 .button-text {

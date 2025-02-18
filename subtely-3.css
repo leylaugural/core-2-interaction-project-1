@@ -43,7 +43,7 @@ h1 {
 
 
 h2 {
-    color: #000000;
+    color: #FF5A00;
     font-family: Oranienbaum;
     font-size: 2.381vw;
     font-style: normal;
@@ -84,7 +84,7 @@ h3 {
     height: 150vh;
     padding: 4.299vw 4.299vw;
     flex-shrink: 0;
-    background-color: #ffffff;
+    background-color: #000000;
     position: relative;
 }
 
@@ -98,17 +98,7 @@ h3 {
     line-height: normal;
     margin-top: 0;
     margin-bottom:20vw;
-}
 
-.marker-1 {
-    width: 91.468vw;
-    display: flex;
-    justify-content: flex-end;
-    padding-left: 46.296vw;
-    color: #FF5A00;
-    margin-right: 0;
-    margin-top: auto;
-    margin-bottom: 10vw;
 }
 
 #text-2 {
@@ -131,10 +121,10 @@ h3 {
     width: 100vw;
     height: 150vh;
     padding: 4.299vw 4.299vw;
-    gap: 9.921vw;
     flex-shrink: 0;
     background-color: #000000;
     position: relative;
+
 
 }
 
@@ -147,76 +137,55 @@ h3 {
     line-height: normal;
     margin-top: 0;
     margin-bottom:30vw;
-    color: #ffffff;
+    color: #FF5A00;
 }
 
-.marker-2 {
-    color: #FF5A00;
-    display: flex;
-    width: 91.468vw;
-    padding-left: 46.296vw;
-    flex-shrink: 0;
-    line-height: normal;
-    margin-top: 0;
-    justify-content: flex-end;
-}
 
 #text-4 {
     display: flex;
     width: 91.468vw;
     padding-right: 46.296vw;
     justify-content: flex-end;
-    align-items: right;
-    flex-shrink: 0;
-    line-height: normal;
-    margin-top: 30vh;
-    padding-top: 0;
-    color: #ffffff;
-}
-
-.marker-3 {
-    color: #FF5A00;
-    display: flex;
-    width: 91.468vw;
-    padding-left: 46.296vw;
-    justify-content: flex-end;
     flex-shrink: 0;
     line-height: normal;
     margin-top: auto;
+    color: #FF5A00;
 }
+
 
 .text-box-3 {
     display: flex;
     flex-direction: column;
     width: 100vw;
-    height: 100vh;
+    height: 250vh;
     padding: 4.299vw 4.299vw;
     gap: 9.921vw;
     flex-shrink: 0;
-    background-color: #ffffff;
+    background-color: #000000;
 }
 
 #text-5 {
     display: flex;
-    justify-content: flex-start;
     width: 91.468vw;
     padding-right: 46.296vw;
-    justify-content: left;
     flex-shrink: 0;
     line-height: normal;
     margin-top: 0;
+    color: #FF5A00;
 }
 
-.marker-4 {
-    color: #FF5A00;
+#text-6 {
     display: flex;
     width: 91.468vw;
-    padding-left: 46.296vw;
     justify-content: flex-end;
+    padding-right: 46.296vw;
+    align-items: flex-end;
     flex-shrink: 0;
     line-height: normal;
+    color: #FF5A00;
     margin-top: auto;
 }
+
 
 .text-box-4 {
     display: flex;
@@ -230,17 +199,15 @@ h3 {
     position: relative;
 }
 
-#text-6 {
-    display: flex;
+.marker-1 {
     width: 91.468vw;
-    height: auto;
-    justify-content: flex-start;
+    height: 10.78vw;
+    display: flex;
     padding-right: 46.296vw;
-    align-items: left;
-    flex-shrink: 0;
-    line-height: normal;
+    margin-top: 50vh;
     color: #FF5A00;
 }
+
 
 .button-wrapper{
     display: flex;

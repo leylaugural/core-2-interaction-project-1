@@ -25,7 +25,7 @@ body {
     text-align: left;
     padding: 3.307vw 4.299vw;
     background-color: #FF5A00;
-    margin-top: -186px;
+    margin-top: -12.302vw;
 }
 
 h1 {
@@ -70,10 +70,10 @@ h1 {
     top: 12.566vw;
     margin-left: 4.299vw;
     text-align: left;
-    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 0.132vw;
     -webkit-text-stroke-color: #000;
     font-family: roboto;
-    font-size: 140px;
+    font-size: 9.259vw;
     font-style: normal;
     font-weight: 900;
     line-height: normal;
